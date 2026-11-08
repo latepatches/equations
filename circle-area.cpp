@@ -33,7 +33,7 @@ class circle{
 int main(void) {
   /*replace the 5 after entry with ur radius.*/
   circle entry(5);
-  entry.area()
+  entry.area();
 
   return 0;
 }
